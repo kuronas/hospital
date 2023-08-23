@@ -1,0 +1,6 @@
+Ini salah satu projek tim pertama saya
+yang mungkin tidak sempurna
+
+untuk memakaifungsinya diharapkan membuat sebuah database dengan nama hospital setelah itu migrate laravel nya
+dan buat 2 user dan ubah usertype salah satu user dari 0 menjadi 1
+ss
